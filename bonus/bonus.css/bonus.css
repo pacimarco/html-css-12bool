@@ -162,13 +162,3 @@
     line-height: 40px;
 }
 
-.giallo{
-    background-color: rgb(255, 255, 0);
-
-    border: 1px solid red;
-}
-
-.viola{
-    background-color: rgb(88, 7, 88);
-    border: 1px solid red;
-}
