@@ -1,0 +1,37 @@
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
+    border: 1px solid white;
+    background-color: rgb(143, 9, 9);
+    color: white;
+    font-size: 10px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.green{
+    background-color: rgb(0, 255, 0);
+    line-height: 30px;
+    height: 30px;
+    margin: 5px 1px 5px 1px;
+    border: 0;
+} 
+
+.space{
+   margin: 0 5px;
+    
+}
+
+.section-2, .section-3{
+    margin-top: 10px;
+}
+
+.col-offset-1, .col-offset-2, .col-offset-3, .col-offset-4, .col-offset-5, .col-offset-6, .col-offset-7, .col-offset-8, .col-offset-9, .col-offset-10, .col-offset-11, .col-offset-12 {
+    border: 1px solid white;
+    background-color: rgb(143, 9, 9);
+    color: white;
+    font-size: 10px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
